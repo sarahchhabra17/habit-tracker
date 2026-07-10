@@ -1,0 +1,10 @@
+{
+  "habits": [
+    {
+      "name": "going to the gym",
+      "created": "2026-07-10",
+      "streak": 0,
+      "last_done": null
+    }
+  ]
+}
